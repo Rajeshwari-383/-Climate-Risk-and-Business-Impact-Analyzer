@@ -148,7 +148,7 @@ Focuses on the financial and operational impact of climate events on businesses.
 - Property Damage by Climate Event
 
 ---
-####🔍 Key Insights
+### 🔍 Key Insights
 
 Climate events create significant financial and operational risks for businesses.
 Different industries experience different levels of climate risk and revenue loss.
@@ -158,7 +158,8 @@ Businesses with high and critical risk levels can be identified for targeted ris
 Revenue loss and property damage provide important indicators of overall business impact.
 
 ---
-####🛠️ Tools and Technologies
+### 🛠️ Tools and Technologies
+
 Power BI – Dashboard development and visualization
 DAX – Data analysis and calculations
 Python – Data cleaning and exploration
