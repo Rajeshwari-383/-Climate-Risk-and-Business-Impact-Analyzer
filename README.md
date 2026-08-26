@@ -150,23 +150,23 @@ Focuses on the financial and operational impact of climate events on businesses.
 ---
 ### 🔍 Key Insights
 
-Climate events create significant financial and operational risks for businesses.
-Different industries experience different levels of climate risk and revenue loss.
-High-severity and critical events can result in greater financial impact and business disruption.
-Climate risk varies across countries and climate event types.
-Businesses with high and critical risk levels can be identified for targeted risk management.
-Revenue loss and property damage provide important indicators of overall business impact.
+- Climate events create significant financial and operational risks for businesses.
+- Different industries experience different levels of climate risk and revenue loss.
+- High-severity and critical events can result in greater financial impact and business disruption.
+- Climate risk varies across countries and climate event types.
+- Businesses with high and critical risk levels can be identified for targeted risk management.
+- Revenue loss and property damage provide important indicators of overall business impact.
 
 ---
 ### 🛠️ Tools and Technologies
 
-Power BI – Dashboard development and visualization
-DAX – Data analysis and calculations
-Python – Data cleaning and exploration
-Pandas – Data manipulation
+- Power BI – Dashboard development and visualization
+- DAX – Data analysis and calculations
+- Python – Data cleaning and exploration
+- Pandas – Data manipulation
 
 --- 
 ### Author
 Rajeshwari
-Aspiring Data Analyst
-Skills: Power BI | DAX | SQL | Python | Excel | Data Analysis | Data Visualization
+- Aspiring Data Analyst
+- Skills: Power BI | DAX | SQL | Python | Excel | Data Analysis | Data Visualization
